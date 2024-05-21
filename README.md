@@ -24,18 +24,18 @@
 - **Code 23** -
 
 # Code 19
-Create a dataset using pandas for the following attbituts and then predict the housing prices using neural network:
+Create a dataset using pandas for the following attributes and then predict the housing prices using neural network:
 - Area: The total area of the house in square feet
-- Bedrooms: The number of bedrooms in the house.
-- Bathrooms: The number of bathrooms in the house.
-- Age: The age of the house in years.
-- Location: The neighborhood or area where the house is located.
-- Garage Size: The size of the garage in square feet.
-- Yard Size: The size of the yard or outdoor space in square feet.
-- Amenities: A binary feature indicating whether the house has additional amenities such as a swimming pool, gym, etc.
-- School Rating: The rating of nearby schools, on a scale from 1 to 10.
-- Distance to City Center: The distance of the house from the city center in miles.
-- Price: The selling price of the house.
+- Bedrooms: The number of bedrooms in the house
+- Bathrooms: The number of bathrooms in the house
+- Age: The age of the house in years
+- Location: The neighborhood or area where the house is located
+- Garage Size: The size of the garage in square feet
+- Yard Size: The size of the yard or outdoor space in square feet
+- Amenities: A binary feature indicating whether the house has additional amenities such as a swimming pool, gym, etc
+- School Rating: The rating of nearby schools, on a scale from 1 to 10
+- Distance to City Center: The distance of the house from the city center in miles
+- Price: The selling price of the house
 
 ## Dataset Example:
 ```
