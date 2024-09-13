@@ -18,10 +18,9 @@
 - **[Code 17](https://github.com/nishatrhythm/Neural-Networks/blob/main/code17.py)** - Solve OR gate problem using neural network.
 - **Code 18** - Design a neural network that has four input neurons, two hidden layers, and one output layer neuron. The activation function in the output payer should be sigmoidal. You should also adjust the weights and biases randomly. Moreover, the input dataset should contain 10 samples. Follow the figure:<br><br><img src="images/image1.png" alt="Image 1" width="600">
 - **[Code 19](https://github.com/nishatrhythm/Neural-Networks/blob/main/code9.py)** - _[See below](https://github.com/nishatrhythm/Neural-Networks?tab=readme-ov-file#code-19)_
-- **Code 20** -
-- **Code 21** -
-- **Code 22** -
-- **Code 23** -
+- **[Code 20](https://github.com/nishatrhythm/Neural-Networks/blob/main/code20.py)** - Solve OR gate using backpropagation.
+- **[Code 21](https://github.com/nishatrhythm/Neural-Networks/blob/main/code21.py)** - Solve XOR gate using backpropagation.
+- **[Code 22](https://github.com/nishatrhythm/Neural-Networks/blob/main/linearRegression.py)** - Predicting Salary Based on Years of Experience using Linear Regression.
 
 # Code 19
 Create a dataset using pandas for the following attributes and then predict the housing prices using neural network:
