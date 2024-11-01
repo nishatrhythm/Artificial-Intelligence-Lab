@@ -1,0 +1,41 @@
+hello_world.
+
+greet.
+
+'Nishat'
+
+goodbye.
+
+greet_with_age.
+
+add(5, 3, Result).
+
+subtract(5, 3, Result).
+
+factorial(5, Result).
+
+square(4, Result).
+
+fibonacci(6, Result).
+
+is_even(4).
+
+is_greater(5, 15).
+
+check_number(-5).
+
+is_leap_year(2024).
+
+list_length([1, 2, 3, 4], Len).
+
+is_positive(-3).
+
+max_in_list([3, 5, 1, 7, 2], Max).
+
+remove_duplicates([1, 2, 2, 3, 4, 4, 5], Result).
+
+greater_than_ten(5).
+
+greater_than_ten_corrected(11).
+
+sum_list([1, 2, 3, 4, 5], Sum).

@@ -1,0 +1,29 @@
+• Find all children of John: 
+?- parent(john, Child).
+
+• List all grandchildren of John: 
+?- parent(john, Child), parent(Child, Grandchild).
+
+• Find all siblings of Mary: 
+?- sibling(mary, Sibling).
+
+• Who are the mothers in the family? 
+?- mother(Mother, _).
+
+• List all uncles in the family: 
+?- sibling(Uncle, Parent), male(Uncle).
+
+• Find all cousins of Mike: 
+?- parent(Parent1, mike), sibling(Parent1, Parent2), parent(Parent2, Cousin), Cousin \= mike.
+
+• Who are the grandparents in the family? 
+?- parent(Parent, Person), parent(ParentOfParent, Parent).
+
+• List all females who have children: 
+?- mother(Female, _).
+
+• Find all siblings and their children: 
+?- sibling(X, Y), parent(X, Child), format('~w is a sibling of ~w and has child ~w.~n', [X, Y, Child]), fail.
+
+• List all males in the family with their children: 
+?- male(Male), parent(Male, Child), format('~w has child ~w.~n', [Male, Child]), fail.
