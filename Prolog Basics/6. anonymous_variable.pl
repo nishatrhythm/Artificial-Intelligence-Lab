@@ -1,0 +1,15 @@
+emperor(rizwan, simulation).
+emperor(nishat, html).
+emperor(rayhan, sleep).
+emperor(asif, love).
+emperor(nishat, css).
+emperor(nahid, superman).
+emperor(rizwan, css).
+emperor(fahim, deeplearning).
+emperor(roudra, css).
+emperor(safwan, html).
+emperor(hasib, poet).
+emperor(ratul, math).
+likes(shuvo, cookie).
+likes(asif, pizza).
+likes(nahid, programming).

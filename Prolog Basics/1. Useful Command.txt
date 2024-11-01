@@ -1,0 +1,24 @@
+:-   IF
+,    AND
+;    OR
+not  NOT
+
+For Comment
+Use % before text.
+
+[Note: Press semicolon (;) to see additional solutions.]
+
+Exit Prolog:
+?- halt.
+
+Reload a File:
+?- consult('filename.pl').
+or
+?- [filename].
+
+Listing All Loaded Facts and Rules:
+?- listing.
+?- listing(parent).
+
+Checking Help:
+?- help(predicate_name).

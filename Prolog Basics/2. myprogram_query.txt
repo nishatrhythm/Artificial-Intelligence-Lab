@@ -1,0 +1,13 @@
+likes(dan, sally).
+
+friendship(sally, dan).
+
+friendship(sally, josh).
+
+friendship(josh, brittney).
+
+[N.B: Variables in Prolog start with an UPPERCASE letter or an underscore (_).]
+
+likes(Who, dan).
+
+friendship(dan, Who).

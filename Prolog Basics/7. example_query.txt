@@ -1,0 +1,22 @@
+## Using Conjunction
+
+# Mila sells anything that Niloy buys
+sells(mila, Product), buys(niloy, Product).
+
+# Tommy buys from anyone who sells bread
+buys(tommy, bread), sells(Person, bread).
+
+
+## Using Rules
+
+# Mila sells anything that Niloy buys
+mila_sells(Product).
+
+# Tommy buys from anyone who sells bread
+tommy_buys(Person).
+
+# Is Kashem grandfather of Kamal
+grandfather(kashem, kamal).
+
+# What is the name of Kamal's grandfather
+grandfather(X, Y).

@@ -1,0 +1,8 @@
+?- grandparent(Who, tom).
+
+[Output]
+Who = john ;
+Who = jane ;
+false.
+
+[Note: Press semicolon (;) to see additional solutions.]

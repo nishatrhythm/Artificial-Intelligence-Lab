@@ -1,0 +1,25 @@
+[Note: Press semicolon (;) to see additional solutions.]
+
+# Paul is Joe's Father
+fatherOf(paul, joe).
+
+# Jane is Mary's mother
+motherOf(jane, mary).
+
+# Mary is male
+male(mary).
+
+# Paul is male
+male(paul).
+
+# Joe's children
+fatherOf(joe, Children).
+
+# Jane's children
+motherOf(jane, Children).
+
+# Male family members
+male(Who).
+
+# Female family members
+female(Who).

@@ -1,0 +1,11 @@
+# Who are the emperor of CSS
+emperor(Who, css).
+
+# Who are the emperor of CSS (anonymous)
+emperor(_, css).
+
+# Which sector is Nishat the emperor of
+emperor(nishat, Sector).
+
+# Which sector is Nishat the emperor of (anonymous)
+emperor(nishat, _).

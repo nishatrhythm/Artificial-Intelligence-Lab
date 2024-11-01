@@ -1,0 +1,11 @@
+# Who are the emperor of HTML and CSS
+emperor(Who, html), emperor(Who, css).
+
+# Who are the emperor of HTML or CSS
+emperor(Who, html); emperor(Who, css).
+
+# Who are the emperor of Love and like pizza
+emperor(Who, love), likes(Who, pizza).
+
+# Show all the characteristics of Nahid
+emperor(nahid, Characteristics); likes(nahid, Characteristics).
