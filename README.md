@@ -1,4 +1,4 @@
-# Neural Networks Lab
+# Neural Networks Lab [[click here to see the solutions]](https://github.com/nishatrhythm/Artificial-Intelligence-Lab/blob/main/neural_network.ipynb)
 - A simple neural network with one output neuron, four inputs and weights, and bias.
 - Design the previous example of a neural network by adjusting weights and biases randomly.
 - A fully connected neural network — every neuron in the current layer has connections to every neuron from the previous layer.
